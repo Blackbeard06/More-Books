@@ -1,0 +1,223 @@
+module DBDA
+{
+	imports
+	{
+		Base
+	}
+
+    item DBDA1
+	{
+		DisplayName	    =	Day By Day Armageddon,
+        Icon	        =	DBDA1,
+        StaticModel     =   Book,
+        Weight	        =	0.2,
+		Type	        =	Literature,
+		UnhappyChange	=	-40,
+		StressChange	=	-40,
+		BoredomChange	=	-50,
+	}
+
+    item DBDA2
+	{
+		DisplayName	    =	Day By Day Armageddon Beyond Exile,
+        Icon	        =	DBDA2,
+        StaticModel     =   Book,
+        Weight	        =	0.2,
+		Type	        =	Literature,
+		UnhappyChange	=	-40,
+		StressChange	=	-40,
+		BoredomChange	=	-50,
+	}
+
+    item DBDA3
+	{
+		DisplayName	    =	Day By Day Armageddon Shattered Hourglass,
+        Icon	        =	DBDA3,
+        StaticModel     =   Book,
+        Weight	        =	0.2,
+		Type	        =	Literature,
+		UnhappyChange	=	-40,
+		StressChange	=	-40,
+		BoredomChange	=	-50,
+	}
+
+    item DBDA4
+	{
+		DisplayName	    =	Day By Day Armageddon Ghost Run,
+        Icon	        =	DBDA4,
+        StaticModel     =   Book,
+        Weight	        =	0.2,
+		Type	        =	Literature,
+		UnhappyChange	=	-40,
+		StressChange	=	-40,
+		BoredomChange	=	-50,
+	}
+
+    item TW
+	{
+		DisplayName	    =	Tomorrow War,
+        Icon	        =	TW,
+        StaticModel     =   Book,
+        Weight	        =	0.2,
+		Type	        =	Literature,
+		UnhappyChange	=	-40,
+		StressChange	=	-40,
+		BoredomChange	=	-50,
+	}
+
+    item TWSR
+	{
+		DisplayName	    =	Tomorrow War Serpent Road,
+        Icon	        =	TWSR,
+        StaticModel     =   Book,
+        Weight	        =	0.2,
+		Type	        =	Literature,
+		UnhappyChange	=	-40,
+		StressChange	=	-40,
+		BoredomChange	=	-50,
+	}
+
+	item Carrie
+	{
+		DisplayName	    =	Carrie,
+        Icon	        =	Carrie,
+        StaticModel     =   Book,
+        Weight	        =	0.2,
+		Type	        =	Literature,
+		UnhappyChange	=	-40,
+		StressChange	=	-40,
+		BoredomChange	=	-50,
+	}
+
+	item Shine
+	{
+		DisplayName	    =	The Shining,
+        Icon	        =	Shine,
+        StaticModel     =   Book,
+        Weight	        =	0.2,
+		Type	        =	Literature,
+		UnhappyChange	=	-40,
+		StressChange	=	-40,
+		BoredomChange	=	-50,
+	}
+
+	item Stand
+	{
+		DisplayName	    =	The Stand,
+        Icon	        =	Stand,
+        StaticModel     =   Book,
+        Weight	        =	0.2,
+		Type	        =	Literature,
+		UnhappyChange	=	-40,
+		StressChange	=	-40,
+		BoredomChange	=	-50,
+	}
+
+	item Cujo
+	{
+		DisplayName	    =	Cujo,
+        Icon	        =	Cujo,
+        StaticModel     =   Book,
+        Weight	        =	0.2,
+		Type	        =	Literature,
+		UnhappyChange	=	-40,
+		StressChange	=	-40,
+		BoredomChange	=	-50,
+	}
+
+	item Pet
+	{
+		DisplayName	    =	Pet Sematary,
+        Icon	        =	Pet,
+        StaticModel     =   Book,
+        Weight	        =	0.2,
+		Type	        =	Literature,
+		UnhappyChange	=	-40,
+		StressChange	=	-40,
+		BoredomChange	=	-50,
+	}
+
+	item Green
+	{
+		DisplayName	    =	The Green Mile,
+        Icon	        =	Green,
+        StaticModel     =   Book,
+        Weight	        =	0.2,
+		Type	        =	Literature,
+		UnhappyChange	=	-40,
+		StressChange	=	-40,
+		BoredomChange	=	-50,
+	}
+
+	item Dream
+	{
+		DisplayName	    =	Dreamcatcher,
+        Icon	        =	Dream,
+        StaticModel     =   Book,
+        Weight	        =	0.2,
+		Type	        =	Literature,
+		UnhappyChange	=	-40,
+		StressChange	=	-40,
+		BoredomChange	=	-50,
+	}
+
+	item Mist
+	{
+		DisplayName	    =	The Mist,
+        Icon	        =	Mist,
+        StaticModel     =   Book,
+        Weight	        =	0.2,
+		Type	        =	Literature,
+		UnhappyChange	=	-40,
+		StressChange	=	-40,
+		BoredomChange	=	-50,
+	}
+
+	item Doc
+	{
+		DisplayName	    =	Doctor Sleep,
+        Icon	        =	Doc,
+        StaticModel     =   Book,
+        Weight	        =	0.2,
+		Type	        =	Literature,
+		UnhappyChange	=	-40,
+		StressChange	=	-40,
+		BoredomChange	=	-50,
+	}
+
+	item Out
+	{
+		DisplayName	    =	The Outsider,
+        Icon	        =	Out,
+        StaticModel     =   Book,
+        Weight	        =	0.2,
+		Type	        =	Literature,
+		UnhappyChange	=	-40,
+		StressChange	=	-40,
+		BoredomChange	=	-50,
+	}
+
+	item Who
+	{
+		DisplayName	    =	Who Goes There?,
+        Icon	        =	Who,
+        StaticModel     =   Book,
+        Weight	        =	0.2,
+		Type	        =	Literature,
+		UnhappyChange	=	-40,
+		StressChange	=	-40,
+		BoredomChange	=	-50,
+	}
+
+	item It
+	{
+		DisplayName	    =	IT,
+        Icon	        =	It,
+        StaticModel     =   Book,
+        Weight	        =	0.2,
+		Type	        =	Literature,
+		UnhappyChange	=	-40,
+		StressChange	=	-40,
+		BoredomChange	=	-50,
+	}
+}

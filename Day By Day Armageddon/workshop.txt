@@ -1,0 +1,74 @@
+version=1
+id=2601912220
+title=Books
+description=[h2]Updated for Build 41.54![/h2]
+description=
+description=[img]https://i.imgur.com/1SBIPut.png[/img][img]https://i.imgur.com/Qh13muD.png[/img][img]https://i.imgur.com/e2IYU25.png[/img][img]https://i.imgur.com/jJZ76jZ.png[/img][img]https://i.imgur.com/dkD0Nnz.png[/img][img]https://i.imgur.com/3WNa7NH.png[/img]
+description=
+description=[img]https://i.imgur.com/DsG6rP7.png[/img]
+description=[img]https://i.imgur.com/bInAqKM.png[/img]
+description=[img]https://i.imgur.com/sciU616.png[/img]
+description=[img]https://i.imgur.com/z8eXa0L.png[/img]
+description=[img]https://i.imgur.com/4Rzx04z.png[/img]
+description=[img]https://i.imgur.com/SPl6vL6.png[/img]
+description=[img]https://i.imgur.com/PtXuJgQ.png[/img]
+description=[img]https://i.imgur.com/lGaoOGC.png[/img]
+description=[img]https://i.imgur.com/ciARqMY.png[/img]
+description=[img]https://i.imgur.com/2nOfSb5.png[/img]
+description=[img]https://i.imgur.com/XpERH7p.png[/img]
+description=[img]https://i.imgur.com/Hf2lsuZ.png[/img]
+description=
+description=
+description=[h2]What does this mod do?[/h2]
+description=Tired of reading bland red books to relieve your unhappiness, boredom & stress?
+description=This mod adds the Books from some of my favorite Authors such as [url=http://jlbourne.com][u]J.L.Bourne[/u][/url] and [url=https://stephenking.com][u]Stephen King[/u][/url]. Each book is a copy of the typical book you can find in the game. Now you can read something with a title or even collect them!
+description=
+description=[img]https://i.imgur.com/p7Fv1Z6.gif[/img]
+description=
+description=[h2]Features:[/h2]
+description=Read to reduce unhappiness, boredom & stress.
+description=
+description=[h2]Where to find the books[/h2]
+description=[spoiler]BookstoreBooks, LivingRoomShelf & CrateBooks[/spoiler]
+description=
+description=[h2]Compatibility[/h2]
+description=This mod should be compatible with any other mod.
+description=This mod will work with[b]Build 41.54[/b] I have not tested this on any other builds.
+description=
+description=[h2]Bugs:[/h2]
+description=None at this time
+description=
+description=[h2]Roadmap:[/h2]
+description=Add Trilobyte Series
+description=Add Greyfox short story
+description=Add omnibus origin to exile book
+description=Add special (rare) autographed books that give additional reductions to unhappiness, boredom & stress.
+description=
+description=Adds the following items
+description=A bunch of books, too many to list.
+description=
+description=[h2]Check out my other mods[/h2]
+description=[url=https://steamcommunity.com/id/Blackbeard06/myworkshopfiles/?appid=108600][u]Blackbeard's Workshop[/u][/url]
+description=
+description=[h3]Food & Drink Mods[/h3]
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2581249482][u]More Vanilla Alcohol [Build 41.54][/u][/url]
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2098960488][u]More Beer [Build 41.54][/u][/url]
+description=
+description=[h3]Firearm Mods[/h3]
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2584812605][u]AR-15 [Build 41.54][/u][/url]
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2584211049][u]Weapon Mod [Build 41.54][/u][/url]
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2577049038][u]Ammo Logistics [Build 41.54][/u][/url]
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2601349483][u]More Vanilla Firearms [Build 41.54][/u][/url]
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2577049336][u]More Ammo [Build 41.54][/u][/url]
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2579385169][u]M&P 9mm [Build 41.54][/u][/url]
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2577942794][u]Operator's M4 [Build 41.54][/u][/url]
+description=
+description=[h3]Other Mods[/h3]
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2413030042][u]Small Dot Cursor [All Builds][/u][/url]
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2601912220][u]Day By Day Armageddon [Build 41.54][/u][/url]
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2601977020][u]Checklist [All Builds][/u][/url]
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2607200206][u]More Map Symbols [All Builds][/u][/url]
+description=
+description=[H2]Mod Info[/H2]
+tags=Build 41;Literature;Pop Culture
+visibility=public
